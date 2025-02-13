@@ -1,2 +1,2 @@
 # belajar-koloborasi
-Belajar Github sangat menyenagkan!
+Belajar Github di Dicoding sangat menyenangkan!
